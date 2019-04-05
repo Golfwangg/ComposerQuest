@@ -1,0 +1,17 @@
+{
+    "name": "william/composer-quest",
+    "authors": [
+        {
+            "name": "William Tassy",
+            "email": "william.tassy11@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
